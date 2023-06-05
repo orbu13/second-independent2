@@ -1,3 +1,7 @@
+.hidden {
+  display: none;
+}
+
 body{
   background-color: #DEB887;
   text-align: center;
@@ -11,6 +15,7 @@ body{
     margin: 50px 25px 85px 25px;
     padding: 25px 50px 25px 50px;
     text-decoration: overline;
+    font-size: 65px;
 
   }
   .h1{
@@ -25,12 +30,14 @@ body{
     font-weight: 900;
     text-decoration-line: underline;
     text-decoration-style: wavy;
+    font-size: 40px;
   }
 
   h3{
     color: #FFEBCD;
     font-weight: 900;
     margin: -10px; 
+    font-size: 25px;
   }
 
   .sorry{
@@ -40,6 +47,7 @@ body{
   label{
     color: #FFEBCD;
     letter-spacing: 5px;
+    font-size: 25px;
     }
   
     input{
@@ -53,9 +61,18 @@ p{
   font-weight: 900;
   text-decoration-color: #FFEBCD;
   text-decoration-line: underline;
+  font-size: 35px;
 }
 form{
   border: 5px solid #FFEBCD;
   margin: 75px 15px 75px 15px;
-  padding: 15px 15px 15px 15px;
+  padding: 15px 1px 15px 1px;
+}
+.mybutton{
+  background-color: #FFEBCD;
+  font-size: 50px;
+  margin: 20px 20px 20px 20px ;
+  padding: 10px 250px 10px 250px;
+  color: #DEB887;
+  text-decoration-line: underline;
 }
