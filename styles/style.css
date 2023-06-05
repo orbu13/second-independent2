@@ -1,8 +1,35 @@
-.hidden {
-  display: none;
-}
+body{
+  background-color: #DEB887;
+  text-align: center;
+  
+  }
 
-#error-message {
-  font-weight: 600; 
-  color: red;
+  h1{
+    color: #FFEBCD;
+    text-transform: uppercase;
+    letter-spacing: 7px;
+    margin: 50px 25px 50px 25px;
+    padding: 25px 50px 25px 50px;
+    text-decoration: overline;
+
+  }
+  h3{
+    background-color: #FFEBCD;
+    color: #DEB887;
+  }
+  .h1{
+    letter-spacing: 0px;
+    text-decoration-line: underline;
+    text-decoration-style: double;
+    margin: ;
 }
+  }
+  .sorry{
+    color: black;
+  }
+  label{
+    color: #FFEBCD;
+    letter-spacing: 5px;
+    text-align:justify;
+    text-align:;
+  }
