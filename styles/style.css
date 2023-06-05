@@ -8,28 +8,54 @@ body{
     color: #FFEBCD;
     text-transform: uppercase;
     letter-spacing: 7px;
-    margin: 50px 25px 50px 25px;
+    margin: 50px 25px 85px 25px;
     padding: 25px 50px 25px 50px;
     text-decoration: overline;
 
-  }
-  h3{
-    background-color: #FFEBCD;
-    color: #DEB887;
   }
   .h1{
     letter-spacing: 0px;
     text-decoration-line: underline;
     text-decoration-style: double;
-    margin: ;
+    margin: 0px 0px 0px 0px;
+    padding: 15px 5px 15px 5px;
 }
+  h2{
+    color: #FFEBCD;
+    font-weight: 900;
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
   }
+
+  h3{
+    color: #FFEBCD;
+    font-weight: 900;
+    margin: -10px; 
+  }
+
   .sorry{
     color: black;
   }
+
   label{
     color: #FFEBCD;
     letter-spacing: 5px;
-    text-align:justify;
-    text-align:;
-  }
+    }
+  
+    input{
+  background-color: #FFEBCD;
+  padding: 5px 50px;
+  margin: 15px 15px;
+}
+
+p{
+  color: #FFEBCD;
+  font-weight: 900;
+  text-decoration-color: #FFEBCD;
+  text-decoration-line: underline;
+}
+form{
+  border: 5px solid #FFEBCD;
+  margin: 75px 15px 75px 15px;
+  padding: 15px 15px 15px 15px;
+}
